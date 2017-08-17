@@ -2,4 +2,4 @@
 Repository for Spring-Mongo Based APllications
 
 
-Simple Spring APllications with MongoDb\B as backend
+Simple Spring APllications with MongoDB as backend
